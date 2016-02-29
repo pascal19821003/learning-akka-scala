@@ -1,266 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9c22190-399d-4a27-8812-dc540eb81de1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section3/routing/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section3/routing/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section3/routing/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_protobuf_2_11_2_4_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_remote_2_11_2_4_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__io_netty_netty_3_10_3_Final_jar.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_11_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$09e83c72ba76e32046a7$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$09e83c72ba76e32046a7$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$09e83c72ba76e32046a7.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$09e83c72ba76e32046a7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$706b85f7f8e65c8aef5a$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$706b85f7f8e65c8aef5a$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$706b85f7f8e65c8aef5a.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$706b85f7f8e65c8aef5a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$b80ded58964ddae2dd29$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$b80ded58964ddae2dd29$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$b80ded58964ddae2dd29.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$b80ded58964ddae2dd29.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$c0e66af95fa9a5135be1$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$c0e66af95fa9a5135be1$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$c0e66af95fa9a5135be1.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$c0e66af95fa9a5135be1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$e03197ebe6e6dd288699$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$e03197ebe6e6dd288699$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$e03197ebe6e6dd288699.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section3/routing/project/target/config-classes/$e03197ebe6e6dd288699.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/._build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$23e1329d8852e676c55f$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$23e1329d8852e676c55f$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$23e1329d8852e676c55f.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$23e1329d8852e676c55f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$50ab82afb4a7590eb07a$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$50ab82afb4a7590eb07a$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$50ab82afb4a7590eb07a.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$50ab82afb4a7590eb07a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$8c546c4d6d2e79b30644$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$8c546c4d6d2e79b30644$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$8c546c4d6d2e79b30644.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$8c546c4d6d2e79b30644.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$e3cf49365673ed867488$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$e3cf49365673ed867488$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$e3cf49365673ed867488.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$e3cf49365673ed867488.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$fff512ab62467dbe2d7d$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$fff512ab62467dbe2d7d$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$fff512ab62467dbe2d7d.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistence/project/target/config-classes/$fff512ab62467dbe2d7d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/._build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$25c5f6723bef0dc0783f$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$25c5f6723bef0dc0783f$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$25c5f6723bef0dc0783f.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$25c5f6723bef0dc0783f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$478ff0da32a0b92d4da9$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$478ff0da32a0b92d4da9$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$478ff0da32a0b92d4da9.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$478ff0da32a0b92d4da9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$605adb27755112843a28$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$605adb27755112843a28$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$605adb27755112843a28.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$605adb27755112843a28.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$7b4c4282d2e18626db8b$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$7b4c4282d2e18626db8b$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$7b4c4282d2e18626db8b.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$7b4c4282d2e18626db8b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$fb6010452304c511f59c$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$fb6010452304c511f59c$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$fb6010452304c511f59c.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/project/target/config-classes/$fb6010452304c511f59c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$455c4f5181d2e6b84227$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$455c4f5181d2e6b84227$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$455c4f5181d2e6b84227.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$455c4f5181d2e6b84227.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$4762bf6cddeba24738cc$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$4762bf6cddeba24738cc$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$4762bf6cddeba24738cc.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$4762bf6cddeba24738cc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$48c3e7d66440734c8b51$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$48c3e7d66440734c8b51$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$48c3e7d66440734c8b51.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$48c3e7d66440734c8b51.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$53cf8f9f3a251e7d2e92$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$53cf8f9f3a251e7d2e92$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$53cf8f9f3a251e7d2e92.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$53cf8f9f3a251e7d2e92.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$59ff24535d5d3491ecc7$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$59ff24535d5d3491ecc7$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$59ff24535d5d3491ecc7.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$59ff24535d5d3491ecc7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$cc99165b0d245cd3b880$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$cc99165b0d245cd3b880$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$cc99165b0d245cd3b880.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/project/target/config-classes/$cc99165b0d245cd3b880.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_google_protobuf_protobuf_java_2_5_0_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_12_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_remote_2_11_2_3_12_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__io_netty_netty_3_8_0_Final_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$0917b9bfea44bbd6f537$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$0917b9bfea44bbd6f537$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$0917b9bfea44bbd6f537.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$0917b9bfea44bbd6f537.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$9a7f14a1ebd96a7989cf$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$9a7f14a1ebd96a7989cf$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$9a7f14a1ebd96a7989cf.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$9a7f14a1ebd96a7989cf.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$a6732cbeb6795ffdb7fb$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$a6732cbeb6795ffdb7fb$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$a6732cbeb6795ffdb7fb.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$a6732cbeb6795ffdb7fb.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$dc0ec660d11fbad5bbbe$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$dc0ec660d11fbad5bbbe$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$dc0ec660d11fbad5bbbe.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$dc0ec660d11fbad5bbbe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$f8b627367c1da45e3c9c$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$f8b627367c1da45e3c9c$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$f8b627367c1da45e3c9c.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/project/target/config-classes/$f8b627367c1da45e3c9c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$454c17194de7093357e1$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$454c17194de7093357e1.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$454c17194de7093357e1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$1$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$1$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$1$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$1$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$1$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$1$$anonfun$apply$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$$anonfun$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4668791d787022a26b91.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/com/packt/akka/._Worker.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/multi-jvm/scala/com/packt/akka/._MultiNodeConf.scala" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section3/hotswap-behavior/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section3/hotswap-behavior/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section3/routing/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../section3/routing/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section3/routing/.idea/modules/routing-build.iml" afterPath="$PROJECT_DIR$/../../section3/routing/.idea/modules/routing-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section3/routing/.idea/modules/routing.iml" afterPath="$PROJECT_DIR$/../../section3/routing/.idea/modules/routing.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section3/routing/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../../section3/routing/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section3/routing/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../section3/routing/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section3/routing/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section3/routing/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__com_google_guava_guava_16_0_1_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__com_google_guava_guava_16_0_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__com_typesafe_akka_akka_persistence_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__com_typesafe_akka_akka_persistence_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__com_typesafe_akka_akka_protobuf_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__com_typesafe_akka_akka_protobuf_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__org_iq80_leveldb_leveldb_0_7_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__org_iq80_leveldb_leveldb_0_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__org_iq80_leveldb_leveldb_api_0_7_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__org_iq80_leveldb_leveldb_api_0_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/modules/persistence-build.iml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/modules/persistence-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/modules/persistence.iml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/modules/persistence.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_google_guava_guava_16_0_1_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_google_guava_guava_16_0_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_persistence_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_persistence_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_persistence_query_experimental_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_persistence_query_experimental_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_protobuf_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_protobuf_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_stream_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_stream_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__org_iq80_leveldb_leveldb_0_7_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__org_iq80_leveldb_leveldb_0_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__org_iq80_leveldb_leveldb_api_0_7_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__org_iq80_leveldb_leveldb_api_0_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/modules/persistent-fsm-query-build.iml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/modules/persistent-fsm-query-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/modules/persistent-fsm-query.iml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/modules/persistent-fsm-query.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_google_guava_guava_16_0_1_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_google_guava_guava_16_0_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_cluster_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_cluster_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_cluster_sharding_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_cluster_sharding_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_cluster_tools_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_cluster_tools_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_contrib_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_contrib_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_persistence_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_persistence_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_protobuf_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_protobuf_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_remote_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_remote_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__io_netty_netty_3_10_3_Final_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__io_netty_netty_3_10_3_Final_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_iq80_leveldb_leveldb_0_7_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_iq80_leveldb_leveldb_0_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_iq80_leveldb_leveldb_api_0_7_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_iq80_leveldb_leveldb_api_0_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_uncommons_maths_uncommons_maths_1_2_2a_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_uncommons_maths_uncommons_maths_1_2_2a_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/modules/akka-cluster-build.iml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/modules/akka-cluster-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/modules/akka-cluster.iml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/modules/akka-cluster.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/src/main/scala/cluster/ClusterApp.scala" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/src/main/scala/cluster/ClusterApp.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/src/main/scala/singleton/SingletonApp.scala" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/src/main/scala/singleton/SingletonApp.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__org_uncommons_maths_uncommons_maths_1_2_2a_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__org_uncommons_maths_uncommons_maths_1_2_2a_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/modules/akka-remoting-build.iml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/modules/akka-remoting-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/modules/akka-remoting.iml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/modules/akka-remoting.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/build.sbt" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/multi-node-testing-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/multi-node-testing-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/multi-node-testing-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/multi-node-testing-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-multi-node-testing-build-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../../section3/routing/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_5_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_5_jar.xml" afterPath="$PROJECT_DIR$/../../section3/routing/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-    </list>
+    <list default="true" id="a9c22190-399d-4a27-8812-dc540eb81de1" name="Default" comment="" />
     <ignored path="cluster-multi-node-testing.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -441,7 +188,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test-FSM" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
@@ -976,12 +723,12 @@
       <created>1451046152809</created>
       <option name="number" value="Default" />
       <updated>1451046152809</updated>
-      <workItem from="1456712756615" duration="280000" />
+      <workItem from="1456712756615" duration="369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="280000" />
+    <option name="totallyTimeSpent" value="369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="655" extended-state="0" />
