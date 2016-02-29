@@ -1,100 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc80f987-b2ee-4451-9849-1afc5cc58038" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../test-FSM/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../test-FSM/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testing-actors/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testing-actors/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/._build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/._target" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$a34b76c58009e2091c4d$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$a34b76c58009e2091c4d$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$a34b76c58009e2091c4d.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$a34b76c58009e2091c4d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$a523b52e28120f595882$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$a523b52e28120f595882$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$a523b52e28120f595882.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$a523b52e28120f595882.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$abda95fa9b03ccdc1078$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$abda95fa9b03ccdc1078$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$abda95fa9b03ccdc1078.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$abda95fa9b03ccdc1078.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$bf45c220016610190316$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$bf45c220016610190316$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$bf45c220016610190316.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$bf45c220016610190316.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$bfe1394b97a750cd636e$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$bfe1394b97a750cd636e$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$bfe1394b97a750cd636e.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test-FSM/project/target/config-classes/$bfe1394b97a750cd636e.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$53f87df326288af9d42b$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$53f87df326288af9d42b$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$53f87df326288af9d42b.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$53f87df326288af9d42b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$692a00aa8045628ef3b7$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$692a00aa8045628ef3b7$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$692a00aa8045628ef3b7.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$692a00aa8045628ef3b7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$89d75e2ebfdbc4a2e1c4$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$89d75e2ebfdbc4a2e1c4$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$89d75e2ebfdbc4a2e1c4.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$89d75e2ebfdbc4a2e1c4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$bd5efbd7a60c43fe4c3f$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$bd5efbd7a60c43fe4c3f$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$bd5efbd7a60c43fe4c3f.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$bd5efbd7a60c43fe4c3f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$f9a4dca6a4c47597a761$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$f9a4dca6a4c47597a761$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$f9a4dca6a4c47597a761.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/project/target/config-classes/$f9a4dca6a4c47597a761.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../testing-actors/src/main/scala/._Counter.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._src" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._target" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/._main" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/._test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/._resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/scala/._com" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/scala/com/._packt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/scala/com/packt/._akka" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi-node-testing/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../multi-node-testing/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_11_jar.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_11_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_3_11_jar.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_3_11_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_5_jar.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_5_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/misc.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/modules/test-fsm-build.iml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/modules/test-fsm-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/modules/test-fsm.iml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/modules/test-fsm.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test-FSM/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../test-FSM/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_4_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/misc.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/modules/testing-actors-build.iml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/modules/testing-actors-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/modules/testing-actors.iml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/modules/testing-actors.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testing-actors/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../testing-actors/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="fc80f987-b2ee-4451-9849-1afc5cc58038" name="Default" comment="" />
     <ignored path="Testing.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -204,7 +111,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="FullScreen" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../section7/akka-streams" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
@@ -777,7 +684,7 @@
       <created>1450975432156</created>
       <option name="number" value="Default" />
       <updated>1450975432156</updated>
-      <workItem from="1456713574365" duration="150000" />
+      <workItem from="1456713574365" duration="755000" />
     </task>
     <servers />
   </component>
@@ -790,7 +697,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150000" />
+    <option name="totallyTimeSpent" value="755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -804,7 +711,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33162394" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33162394" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
