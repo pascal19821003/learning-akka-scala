@@ -55,6 +55,7 @@ object Creation extends App {
   zeus ! Zeus.StopMusic
 
   //shutdown system
-  system.shutdown()
+//  system.shutdown()
+  system.terminate()
 
 }

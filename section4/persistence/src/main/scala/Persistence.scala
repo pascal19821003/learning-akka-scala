@@ -9,17 +9,24 @@ object Persistent extends App {
 
   val system = ActorSystem("persistent-actors")
 
-  val counter = system.actorOf(Props[Counter])
+  val counter = system.actorOf(Props[Counter],"counter")
+
+  Thread.sleep(10000)
 
   counter ! Cmd(Increment(3))
 
+  counter ! Cmd(Increment(5))
+
+  counter ! Cmd(Increment(5))
+  counter ! Cmd(Increment(5))
+  counter ! Cmd(Increment(5))
   counter ! Cmd(Increment(5))
 
   counter ! Cmd(Decrement(3))
 
   counter ! "print"
 
-  Thread.sleep(1000)
+  Thread.sleep(10000)
 
   system.terminate()
 

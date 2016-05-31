@@ -2,366 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3a4e65-27ec-4198-9ef9-d93385b6bb9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ordered-termination/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ordered-termination/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_4_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/._.DS_Store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/._.DS_Store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/default/hello-akka-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/default/hello-akka-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/default-hello-akka-build-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/ivy-report.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/$global/$global/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/$global/update/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/compile/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/copyResources/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section1/Hello Akka/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/._build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/._project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/._src" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/._target" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$055ecb259d4c81899c3e$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$055ecb259d4c81899c3e$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$055ecb259d4c81899c3e.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$055ecb259d4c81899c3e.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$17282816cc3835568924$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$17282816cc3835568924$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$17282816cc3835568924.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$17282816cc3835568924.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$1d550380fe8f17391180$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$1d550380fe8f17391180$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$1d550380fe8f17391180.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$1d550380fe8f17391180.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$40eff041cd91b0740ff5$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$40eff041cd91b0740ff5$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$40eff041cd91b0740ff5.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$40eff041cd91b0740ff5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$5226ace5a197a2e279ac$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$5226ace5a197a2e279ac$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$5226ace5a197a2e279ac.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$5226ace5a197a2e279ac.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$f56dd43b3651e8daa5ba$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$f56dd43b3651e8daa5ba$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$f56dd43b3651e8daa5ba.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/project/target/config-classes/$f56dd43b3651e8daa5ba.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/._main" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/._test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/._java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/._resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/resources/._application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/scala/._com" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/scala/com/._packt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/scala/com/packt/._akka" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/scala/com/packt/akka/._db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/scala/com/packt/akka/._models" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/scala/com/packt/akka/db/._DBResponse.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/scala/com/packt/akka/db/._MongoDB.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/main/scala/com/packt/akka/models/._TweetEntity.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/test/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section8/rest-api/src/test/scala/._com" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/._build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/._project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/._src" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/._target" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$37f24c940c9bfc418918$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$37f24c940c9bfc418918$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$37f24c940c9bfc418918.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$37f24c940c9bfc418918.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$3a2644be6b6ee084a8e7$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$3a2644be6b6ee084a8e7$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$3a2644be6b6ee084a8e7.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$3a2644be6b6ee084a8e7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$3c4270e33627c750dbe9$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$3c4270e33627c750dbe9$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$3c4270e33627c750dbe9.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$3c4270e33627c750dbe9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$4887356186a5f5c520ab$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$4887356186a5f5c520ab$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$4887356186a5f5c520ab.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$4887356186a5f5c520ab.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$6906d3d7c38ea9a7d40d$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$6906d3d7c38ea9a7d40d$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$6906d3d7c38ea9a7d40d.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$6906d3d7c38ea9a7d40d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$6b7fede433a4fd9b45bf$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$6b7fede433a4fd9b45bf$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$6b7fede433a4fd9b45bf.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$6b7fede433a4fd9b45bf.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$84cf86730c26f26896df$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$84cf86730c26f26896df$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$84cf86730c26f26896df.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$84cf86730c26f26896df.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$8b4d12b22b7b96345462$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$8b4d12b22b7b96345462$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$8b4d12b22b7b96345462.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$8b4d12b22b7b96345462.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$9189723947f22e1750e5$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$9189723947f22e1750e5$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$9189723947f22e1750e5.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$9189723947f22e1750e5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$a650cf906a6f3e5945e8$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$a650cf906a6f3e5945e8$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$a650cf906a6f3e5945e8.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$a650cf906a6f3e5945e8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$a6c46727db379b7e40ed$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$a6c46727db379b7e40ed$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$a6c46727db379b7e40ed.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$a6c46727db379b7e40ed.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$abfbc9a3ccbfe8cbdd0a$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$abfbc9a3ccbfe8cbdd0a$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$abfbc9a3ccbfe8cbdd0a$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$abfbc9a3ccbfe8cbdd0a.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$abfbc9a3ccbfe8cbdd0a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$b4afaad86984ad302fb3$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$b4afaad86984ad302fb3$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$b4afaad86984ad302fb3.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$b4afaad86984ad302fb3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$d4afe87a5a06a55783cc$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$d4afe87a5a06a55783cc$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$d4afe87a5a06a55783cc.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/$d4afe87a5a06a55783cc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$37f24c940c9bfc418918$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$37f24c940c9bfc418918$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$37f24c940c9bfc418918.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$37f24c940c9bfc418918.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$6b7fede433a4fd9b45bf$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$6b7fede433a4fd9b45bf$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$6b7fede433a4fd9b45bf.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$6b7fede433a4fd9b45bf.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$8b4d12b22b7b96345462$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$8b4d12b22b7b96345462$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$8b4d12b22b7b96345462.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$8b4d12b22b7b96345462.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$b4afaad86984ad302fb3$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$b4afaad86984ad302fb3$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$b4afaad86984ad302fb3.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$b4afaad86984ad302fb3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$d4afe87a5a06a55783cc$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$d4afe87a5a06a55783cc$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$d4afe87a5a06a55783cc.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/project/target/config-classes/._$d4afe87a5a06a55783cc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/src/._main" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/src/._test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/src/main/._resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/src/main/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/src/main/resources/._logback-minimal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/src/main/scala/._Master.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/src/main/scala/._Worker.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/src/test/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../balancing-workload/src/test/scala/._WorkerSpec.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/._build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/._project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/._src" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/._target" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$360823f853699b89caa4$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$360823f853699b89caa4$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$360823f853699b89caa4.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$360823f853699b89caa4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$47becf83a9382ae31719$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$47becf83a9382ae31719$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$47becf83a9382ae31719.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$47becf83a9382ae31719.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$67f22116514ec4972d5e$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$67f22116514ec4972d5e$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$67f22116514ec4972d5e.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$67f22116514ec4972d5e.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$7ee57a6c8b73be0ca28e$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$7ee57a6c8b73be0ca28e$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$7ee57a6c8b73be0ca28e.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$7ee57a6c8b73be0ca28e.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$c45467198195fae148c6$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$c45467198195fae148c6$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$c45467198195fae148c6.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/project/target/config-classes/$c45467198195fae148c6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/._main" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/._test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/main/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/main/scala/._com" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/main/scala/com/._akka" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/main/scala/com/akka/._packt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/main/scala/com/akka/._pattern" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/main/scala/com/akka/pattern/._Master.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/main/scala/com/akka/pattern/._Terminator.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/main/scala/com/akka/pattern/._Worker.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/test/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/test/scala/._akka" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ordered-termination/src/test/scala/akka/._pattern" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/._build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/._project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/._src" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/._target" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/._target" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/._config-classes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$314130a2f47dc498caef$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$314130a2f47dc498caef$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$314130a2f47dc498caef.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$314130a2f47dc498caef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$375f7d81bfcb04b69db6$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$375f7d81bfcb04b69db6$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$375f7d81bfcb04b69db6.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$375f7d81bfcb04b69db6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$41f96238527886e61758$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$41f96238527886e61758$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$41f96238527886e61758.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$41f96238527886e61758.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$a19355a6ffb5d0e9c44b$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$a19355a6ffb5d0e9c44b$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$a19355a6ffb5d0e9c44b.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$a19355a6ffb5d0e9c44b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$a82b5ac65c2c925be8c6$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$a82b5ac65c2c925be8c6$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$a82b5ac65c2c925be8c6.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/project/target/config-classes/$a82b5ac65c2c925be8c6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/src/._main" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/src/._test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/src/main/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/src/main/scala/._com" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/src/main/scala/com/._akka" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/src/main/scala/com/akka/._packt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/src/test/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/src/test/scala/._akka" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scheduler-messages/src/test/scala/akka/._pattern" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._src" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._target" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_11_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_3_11_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5ce5e0db9310b247a833$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5ce5e0db9310b247a833$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5ce5e0db9310b247a833.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5ce5e0db9310b247a833.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$78253ba736993e89a4fe$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$78253ba736993e89a4fe$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$78253ba736993e89a4fe.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$78253ba736993e89a4fe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$89740e90877de65a017a$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$89740e90877de65a017a$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$89740e90877de65a017a.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$89740e90877de65a017a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8b74c1af30ca172b80bd$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8b74c1af30ca172b80bd$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8b74c1af30ca172b80bd.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8b74c1af30ca172b80bd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$cc5afdf37c2ada72556f$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$cc5afdf37c2ada72556f$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$cc5afdf37c2ada72556f.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$cc5afdf37c2ada72556f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/._main" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/._test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/._com" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/com/._akka" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/com/akka/._packt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/com/akka/._pattern" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/com/akka/pattern/._Reaper.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/._scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/scala/._akka" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/scala/akka/._pattern" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/akka-http-client-side-api/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section8/akka-http-client-side-api/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_12_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_12_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_core_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_core_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_spray_json_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_spray_json_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_testkit_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_testkit_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_parsing_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_parsing_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_stream_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_stream_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_3_12_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_3_12_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_play_play_iteratees_2_11_2_3_5_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__com_typesafe_play_play_iteratees_2_11_2_3_5_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__commons_codec_commons_codec_1_10_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__commons_codec_commons_codec_1_10_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__io_netty_netty_3_10_4_Final_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__io_netty_netty_3_10_4_Final_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__io_spray_spray_json_2_11_1_3_1_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__io_spray_spray_json_2_11_1_3_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_reactivemongo_reactivemongo_2_11_0_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_reactivemongo_reactivemongo_2_11_0_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_reactivemongo_reactivemongo_bson_2_11_0_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_reactivemongo_reactivemongo_bson_2_11_0_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_reactivemongo_reactivemongo_bson_macros_2_11_0_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_reactivemongo_reactivemongo_bson_macros_2_11_0_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scala_lang_scala_compiler_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scala_lang_scala_compiler_2_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/modules/rest-api-build.iml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/modules/rest-api-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/modules/rest-api.iml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/modules/rest-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section8/rest-api/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section8/rest-api/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_11_jar.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_11_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_3_11_jar.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_11_2_3_11_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/misc.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/modules/balancing-workload-build.iml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/modules/balancing-workload-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/modules/balancing-workload.iml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/modules/balancing-workload.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../balancing-workload/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../balancing-workload/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ordered-termination/.idea/misc.xml" afterPath="$PROJECT_DIR$/../ordered-termination/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ordered-termination/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../ordered-termination/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ordered-termination/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../ordered-termination/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ordered-termination/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ordered-termination/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scheduler-messages/.idea/misc.xml" afterPath="$PROJECT_DIR$/../scheduler-messages/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scheduler-messages/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../scheduler-messages/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scheduler-messages/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../scheduler-messages/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scheduler-messages/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../scheduler-messages/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/shutdown-pattern-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/shutdown-pattern-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/shutdown-pattern.iml" afterPath="$PROJECT_DIR$/.idea/modules/shutdown-pattern.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../throttler-messages/project/._target" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../throttler-messages/project/target/._config-classes" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../throttler-messages/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../throttler-messages/.idea/workspace.xml" />
     </list>
     <ignored path="throttler messages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -411,21 +55,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Reaper.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Reaper.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/akka/pattern/Reaper.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1954023">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+              <folding>
+                <element signature="e#26#73#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shutdown.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Shutdown.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/akka/packt/Shutdown.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.16099072">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -465,7 +111,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="24" />
     <option name="width" value="1280" />
     <option name="height" value="655" />
   </component>
@@ -589,15 +235,11 @@
               <option name="myItemId" value="packt" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Shutdown.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -607,7 +249,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../throttler-messages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../akkaEssentials/Chapter2/FirstAkkaApplication" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
@@ -1077,6 +719,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -1116,7 +763,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1456727464344" />
+    <option name="lastUpdateTimestamp" value="1464242335135" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1175,6 +822,9 @@
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1b3a4e65-27ec-4198-9ef9-d93385b6bb9f" name="Default" comment="" />
@@ -1182,29 +832,29 @@
       <option name="number" value="Default" />
       <updated>1451253794614</updated>
       <workItem from="1456726872837" duration="615000" />
+      <workItem from="1464242212170" duration="2815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="615000" />
+    <option name="totallyTimeSpent" value="3430000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="655" extended-state="0" />
+    <frame x="0" y="24" width="1280" height="655" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32862905" sideWeight="0.4967213" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24836065" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41532257" sideWeight="0.5032787" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2888889" sideWeight="0.27704918" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41532257" sideWeight="0.4967213" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2888889" sideWeight="0.7229508" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1216,10 +866,19 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32862905" sideWeight="0.4967213" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1236,8 +895,36 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/akka/pattern/Reaper.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#73#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/akka/packt/Shutdown.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/akka/pattern/Reaper.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#26#73#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1257,18 +944,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/akka/packt/Shutdown.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/akka/pattern/Reaper.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding>
+            <element signature="e#26#73#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/akka/pattern/Reaper.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/akka/packt/Shutdown.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1954023">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.16099072">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>

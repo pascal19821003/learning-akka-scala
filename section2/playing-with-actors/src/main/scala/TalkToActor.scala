@@ -94,6 +94,6 @@ object TalkToActor extends App {
   recorder ! Recorder.NewUser(User("Jon", "jon@packt.com"))
 
   //shutdown system
-  system.shutdown()
+  system.terminate()
 
 }
