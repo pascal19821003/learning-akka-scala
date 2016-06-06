@@ -12,7 +12,6 @@ import scala.util.Random
 
 class Frontend extends Actor {
   import context.dispatcher
-
   val backend = context.actorOf(FromConfig.props(), name = "backendRouter")
 
   context.system.scheduler.schedule(3.seconds, 3.seconds, self, 

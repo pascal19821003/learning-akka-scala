@@ -60,5 +60,5 @@ object BecomeHotswap extends App {
 
   Thread.sleep(100)
 
-  system.shutdown()
+  system.terminate()
 }

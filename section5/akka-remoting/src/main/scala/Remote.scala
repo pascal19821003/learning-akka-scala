@@ -12,7 +12,7 @@ object MembersService extends App {
   val worker = system.actorOf(Props[Worker], "remote-worker")
 
   println(s"Worker actor path is ${worker.path}")
-
+  system.terminate()
 }
 
 object MemberServiceLookup extends App {
@@ -24,6 +24,8 @@ object MemberServiceLookup extends App {
   val worker = system.actorSelection("akka.tcp://MembersService@127.0.0.1:2552/user/remote-worker")
 
   worker ! Worker.Work("Hi Remote Actor")
+
+  system.terminate()
 }
 
 object MembersServiceRemoteCreation extends App {
@@ -37,5 +39,5 @@ object MembersServiceRemoteCreation extends App {
   println(s"The remote path of worker Actor is ${workerActor.path}")
 
   workerActor ! Worker.Work("Hi Remote Worker")
-
+  system.terminate()
 }

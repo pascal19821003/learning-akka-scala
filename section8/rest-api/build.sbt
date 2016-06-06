@@ -2,18 +2,15 @@ name := "REST API"
 
 version := "1.0"
 
-scalaVersion := "2.11.7"
+scalaVersion := "2.11.8"
 
 libraryDependencies ++= Seq(
-  "com.typesafe.akka" %% "akka-stream-experimental" % "1.0",
-  "com.typesafe.akka" %% "akka-http-core-experimental" % "1.0",
-  "com.typesafe.akka" %% "akka-http-experimental" % "1.0",
-  "com.typesafe.akka" %% "akka-http-spray-json-experimental" % "1.0",
-  "org.reactivemongo" %% "reactivemongo" % "0.11.7",
-  "org.scalatest" %% "scalatest" % "2.2.1" % "test",
-  "com.typesafe.akka" %% "akka-http-testkit-experimental" % "1.0"
+  "com.typesafe.akka" %% "akka-stream" % "2.4.7",
+  "com.typesafe.akka" %% "akka-http-core" % "2.4.7",
+  "com.typesafe.akka" %% "akka-http-experimental" % "2.4.7",
+  "com.typesafe.akka" %% "akka-http-spray-json-experimental" % "2.4.7",
+  "org.reactivemongo" %% "reactivemongo" % "0.11.11",
+  "org.scalatest" %% "scalatest" % "2.2.6" % "test",
+  "com.typesafe.akka" %% "akka-http-testkit" % "2.4.7"
 )
 
-resolvers += "Sonatype Snapshots" at "https://oss.sonatype.org/content/repositories/snapshots/"
-
-resolvers += "Typesafe" at "https://repo.typesafe.com/typesafe/releases/"

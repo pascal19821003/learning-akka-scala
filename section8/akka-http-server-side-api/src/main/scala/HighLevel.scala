@@ -40,6 +40,6 @@ object HighLevel extends App {
 
   bindingFuture
     .flatMap(_.unbind()) // trigger unbinding from the port
-    .onComplete(_ => system.shutdown()) // and shutdown when done
+    .onComplete(_ => system.terminate()) // and shutdown when done
 
 }

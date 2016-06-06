@@ -2,47 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bded43ba-196d-4906-bd72-967025654276" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._src" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._target" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5d9774602faa2dd19afd$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5d9774602faa2dd19afd$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5d9774602faa2dd19afd.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5d9774602faa2dd19afd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8d5e5119b64eabb41a1f$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8d5e5119b64eabb41a1f$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8d5e5119b64eabb41a1f.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8d5e5119b64eabb41a1f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8dafc311fe2bc2147111$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8dafc311fe2bc2147111$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8dafc311fe2bc2147111.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8dafc311fe2bc2147111.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dd1d4b17406af1f9433d$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dd1d4b17406af1f9433d$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dd1d4b17406af1f9433d.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dd1d4b17406af1f9433d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/._main" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/._test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/._java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/._scala" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section7/stream-test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section7/stream-test/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_12_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_12_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_core_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_core_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_spray_json_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_spray_json_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_parsing_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_parsing_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_stream_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_stream_experimental_2_11_1_0_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__io_spray_spray_json_2_11_1_3_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__io_spray_spray_json_2_11_1_3_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/akka-http-server-side-api-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/akka-http-server-side-api-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../section6/testing-actors/.idea/libraries/SBT__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_7_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_core_2_11_2_4_7_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_parsing_2_11_2_4_7_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_config_1_3_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_ssl_config_akka_2_11_0_2_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_ssl_config_core_2_11_0_2_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section4/._persistence" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_cluster_2_11_2_4_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_cluster_sharding_2_11_2_4_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_cluster_tools_2_11_2_4_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_contrib_2_11_2_4_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_persistence_2_11_2_4_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_protobuf_2_11_2_4_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__com_typesafe_akka_akka_remote_2_11_2_4_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/._multi-node-testing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/._test-FSM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/._testing-actors" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/._testing-parent-child" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/._.idea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/._project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/._src" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/._target" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/project/._target" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/._main" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/._test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/main/._resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/main/._scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/main/resources/._application.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/test/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/test/._scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/test/scala/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/test/scala/._com" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/test/scala/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/test/scala/com/._packt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/test/scala/com/packt/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/test/scala/com/packt/._akka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/src/test/scala/com/packt/akka/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section7/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section7/._akka-streams" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section7/._graph-flows" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section7/._reactive-tweets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section7/._stream-io" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../section7/._stream-test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../._akka-http-client-side-api" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../._akka-http-server-side-api" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../._rest-api" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_12_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_core_experimental_2_11_1_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_experimental_2_11_1_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/libraries/SBT__com_typesafe_akka_akka_http_spray_json_experimental_2_11_1_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/libraries/SBT__com_typesafe_akka_akka_parsing_experimental_2_11_1_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/libraries/SBT__com_typesafe_akka_akka_stream_experimental_2_11_1_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/libraries/SBT__io_spray_spray_json_2_11_1_3_1_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_6_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_core_experimental_2_11_1_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_parsing_experimental_2_11_1_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_stream_experimental_2_11_1_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistence/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section4/persistence/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section4/persistent-fsm&amp;query/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/modules/akka-cluster.iml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/modules/akka-cluster.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/sbt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/build.sbt" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/src/main/scala/load-balancing/Frontend.scala" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/src/main/scala/load-balancing/Frontend.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-cluster/src/main/scala/load-balancing/LoadBalancingApp.scala" afterPath="$PROJECT_DIR$/../../section5/akka-cluster/src/main/scala/load-balancing/LoadBalancingApp.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/modules/akka-remoting.iml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/modules/akka-remoting.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/build.sbt" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/src/main/scala/Remote.scala" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/src/main/scala/Remote.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section6/testing-actors/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../section6/testing-actors/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section6/testing-actors/.idea/modules/testing-actors.iml" afterPath="$PROJECT_DIR$/../../section6/testing-actors/.idea/modules/testing-actors.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section6/testing-actors/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../section6/testing-actors/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../section6/testing-actors/build.sbt" afterPath="$PROJECT_DIR$/../../section6/testing-actors/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/modules/akka-http-client-side-api.iml" afterPath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/modules/akka-http-client-side-api.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/sbt.xml" afterPath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/sbt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../akka-http-client-side-api/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/build.sbt" afterPath="$PROJECT_DIR$/../akka-http-client-side-api/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/src/main/scala/ConnectionLevel.scala" afterPath="$PROJECT_DIR$/../akka-http-client-side-api/src/main/scala/ConnectionLevel.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/src/main/scala/HostLevel.scala" afterPath="$PROJECT_DIR$/../akka-http-client-side-api/src/main/scala/HostLevel.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../akka-http-client-side-api/src/main/scala/RequestLevel.scala" afterPath="$PROJECT_DIR$/../akka-http-client-side-api/src/main/scala/RequestLevel.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/akka-http-server-side-api.iml" afterPath="$PROJECT_DIR$/.idea/modules/akka-http-server-side-api.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/HighLevel.scala" afterPath="$PROJECT_DIR$/src/main/scala/HighLevel.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/LowLevel.scala" afterPath="$PROJECT_DIR$/src/main/scala/LowLevel.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section6/testing-actors/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_6_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_protobuf_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_protobuf_2_11_2_4_6_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_remote_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_stream_2_11_2_4_7_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section6/testing-actors/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_8_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_0_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_4_6_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_8_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" afterPath="$PROJECT_DIR$/../../section6/testing-actors/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_7_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../section6/testing-actors/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" afterPath="$PROJECT_DIR$/../../section6/testing-actors/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_6_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_11_2_3_12_jar.xml" afterPath="$PROJECT_DIR$/../../section5/akka-remoting/.idea/libraries/SBT__com_typesafe_akka_akka_remote_2_11_2_4_6_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_experimental_2_11_2_4_7_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_spray_json_experimental_2_11_1_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_http_spray_json_experimental_2_11_2_4_7_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__io_spray_spray_json_2_11_1_3_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__io_spray_spray_json_2_11_1_3_2_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_6_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_8_jar.xml" />
     </list>
     <ignored path="Akka-Http-client-side-api.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,10 +168,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/LowLevel.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-              <folding>
-                <element signature="e#24#53#0" expanded="false" />
-              </folding>
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,8 +177,8 @@
       <file leaf-file-name="HighLevel.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/HighLevel.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38287154">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.39769453">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <element signature="e#24#53#0" expanded="true" />
               </folding>
@@ -120,7 +190,7 @@
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -139,8 +209,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/LowLevel.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/HighLevel.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/LowLevel.scala" />
       </list>
     </option>
   </component>
@@ -151,8 +222,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1" />
-    <option name="width" value="1366" />
-    <option name="height" value="739" />
+    <option name="y" value="2" />
+    <option name="width" value="1331" />
+    <option name="height" value="721" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -179,8 +251,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,11 +350,31 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="FullScreen" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../akka-http-client-side-api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rest-api" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LowLevel">
+    <configuration default="false" name="LowLevel" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.packt.akka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.packt.akka.LowLevel" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="akka-http-server-side-api" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -728,6 +820,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -757,9 +854,17 @@
       <envs />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.LowLevel" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.LowLevel" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1456724257544" />
+    <option name="lastUpdateTimestamp" value="1465123893622" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -821,41 +926,42 @@
       <option name="number" value="Default" />
       <updated>1451136930607</updated>
       <workItem from="1456722924386" duration="1505000" />
+      <workItem from="1465123741468" duration="389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1505000" />
+    <option name="totallyTimeSpent" value="1894000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1366" height="739" extended-state="0" />
+    <frame x="1" y="2" width="1331" height="721" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42586207" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15696783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4252669" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16286388" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26551723" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31672597" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27488515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28560188" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
@@ -867,14 +973,16 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/LowLevel.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#24#53#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -888,16 +996,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/LowLevel.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#24#53#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -906,10 +1004,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LowLevel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/HighLevel.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38287154">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LowLevel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/HighLevel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39769453">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
             <element signature="e#24#53#0" expanded="true" />
           </folding>

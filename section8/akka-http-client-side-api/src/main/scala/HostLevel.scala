@@ -49,7 +49,7 @@ object HostLevel extends App {
 
   def shutdown() = {
     Http().shutdownAllConnectionPools().onComplete{ _ =>
-      system.shutdown()
+      system.terminate()
       system.awaitTermination()
     }
 
